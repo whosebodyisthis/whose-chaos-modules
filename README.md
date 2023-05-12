@@ -47,5 +47,7 @@ or more commonly audio-rate inputs. This version does not have a complete set of
 will have detailed documentation on inlet data types. You may refer to the _'EXAMPLE-PATCH.pd'_ for an immediate 
 demonstration of some modules, how they can be patched and controlled.
 
+If you modify or use these abstractions, let me know, I'd love to hear what people are doing with them!
+
 Feel free to contact me (whosebodyisthis@gmail.com or @whosebodyisthis on Instagram) for help with
-this package.
+this stuff.
