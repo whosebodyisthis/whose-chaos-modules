@@ -9,6 +9,7 @@ whose's-chaos-modules (Pd) (v0.1)
 This package contains a set of vanilla Pd abstractions focused on the concept of unstable,
 chaotic and dynamical systems. 
 
+
 Requirements:
 =============
 - At least Pd Version 0.52-x (may work in older versions, but not recommended)
@@ -17,7 +18,8 @@ This package contains many abstracions, however, not all are intended to be used
 objects. Below is a list of all 'instruments' and control modules in this package:
 
 
-
+Instruments:
+============
 [feedbacker1~] - Non-Linear, stereo feedbacking module.
 
 [chuapet~] - Unstable Chua oscillator, with self-wavefolding.
@@ -39,7 +41,8 @@ objects. Below is a list of all 'instruments' and control modules in this packag
 [w.benjola~] - Imitation/approximation of Rob Hordijk's Benjolin/Rungler. Goes crazy in 'chaos' mode.
 
 
-
+Misc:
+=====
 This package may be added to your Pd search path/externals folder to instantiate objects in any patch (either place in your
 'externals' folder, or add this downloaded folder through Pd's Preferences/Path).
 
