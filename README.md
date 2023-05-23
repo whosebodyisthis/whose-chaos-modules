@@ -3,7 +3,7 @@ Unstable, Non-Linear and Chaotic Sound Modules for Pd.
 
 <img width="752" alt="Screenshot 2023-05-12 at 12 48 15" src="https://github.com/whosebodyisthis/whose-chaos-modules/assets/133358060/28daaa7f-324f-47b5-9253-ba943259f765">
 
-whose's-chaos-modules (Pd) (v0.1)
+whose's-chaos-modules (Pd) (v0.2)
 ========================================
 
 This package contains a set of vanilla Pd abstractions focused on the concept of unstable,
