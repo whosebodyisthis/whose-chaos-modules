@@ -15,6 +15,9 @@ Requirements:
 =============
 - At least Pd Version 0.52-x (may work in older versions, but not recommended)
 
+I also highly recommend solidpd's AudioLab externals as utilities for audio out,
+file recording and EQ'ing, they are available here: https://github.com/solipd/AudioLab
+
 This package contains many abstracions, however, not all are intended to be used as patchable 
 objects. Below is a list of all 'instruments' and control modules in this package:
 
