@@ -1,0 +1,4 @@
+1. Shorten control names (e.g., 'fdbck_lvl' to 'fdbck' or 'delay_ms' to 'ms' or 'delay'
+2. prefix everything with 'w.'
+3. Sub-folder for abstractions, keep instruments in main folder
+4. Try implementing 'pd~' for sub-processes; may improve performance
