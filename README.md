@@ -45,21 +45,25 @@ Instruments:
 [w.benjola~] - Imitation/approximation of Rob Hordijk's Benjolin/Rungler. Goes crazy in 'chaos' mode.
 
 
-Misc:
+How to install:
 =====
-This package may be added to your Pd search path/externals folder to instantiate objects in any patch (either place in your
-'externals' folder, or add this downloaded folder through Pd's Preferences/Path).
+Download this package from github.
+Move the folder into a convinient location 
+Download Pd if you haven't already and open it
+In Pd, go "Preferences -> Path" and add where you put this folder
+You should now be able to add these objects in any Pd patch using "CMD/CTRL+1" and typing the name of an instrument.
 
-You can add the objects mentioned in the list above to any Pd patch, and patch them together in the standard manner.
+About modules:
+==============
 If a module has multiple inlets, the rightmost inlet is always used for modulation sources: use it by having a message box
 with the first arugment as a slider name (e.g., delay_ms from [feedbacker1~]), followed by $1, with a CONTROL-RATE 
 modulation source going into the message box. 
-Multiple modulations can use the same inlet. Other inlets may be control data,
-or more commonly audio-rate inputs. 
-You may refer to the _'EXAMPLE-PATCH.pd'_ for an immediate 
-demonstration of some modules, how they can be patched and controlled.
 
-If you modify or use these abstractions, let me know, I'd love to hear what people are doing with them!
+Multiple modulations can use the same inlet. Other inlets may be control data, or more commonly audio-rate inputs. 
 
-Feel free to contact me (whosebodyisthis@gmail.com or @whosebodyisthis on Instagram) for help with
+You may refer to the _'EXAMPLE-PATCH.pd'_ for an immediate demonstration of some modules, how they can be patched and controlled.
+
+If you modify or use these abstractions, please let me know! I'd love to hear what people are doing with them.
+
+Feel free to contact me (whosebodyisthis@gmail.com or @whosebodyisthis on Instagram) for help with any of this
 this stuff.
