@@ -48,9 +48,13 @@ Instruments:
 How to install:
 =====
 Download this package from github.
+
 Move the folder into a convinient location 
+
 Download Pd if you haven't already and open it
+
 In Pd, go "Preferences -> Path" and add where you put this folder
+
 You should now be able to add these objects in any Pd patch using "CMD/CTRL+1" and typing the name of an instrument.
 
 About modules:
