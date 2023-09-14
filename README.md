@@ -1,6 +1,8 @@
 # whose-chaos-modules
 Unstable, Non-Linear and Chaotic Sound Modules for Pd.
 
+*THIS VERSION IS DEPRECATED, PLEASE SEE https://github.com/whosebodyisthis/whose-chaos-modules-v0.3*
+
 <img width="948" alt="Screenshot 2023-05-23 at 17 31 05" src="https://github.com/whosebodyisthis/whose-chaos-modules/assets/133358060/5f2ea55c-fea6-40cc-a819-ba2c21d5a479">
 
 
